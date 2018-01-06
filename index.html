@@ -6,10 +6,24 @@ layout: default
   {% for post in site.posts %}
     <article class="post">
 
+      {% if post.featimage != null %}
+        <div class="featimage">
+          <a href="{{ site.baseurl }}{{ post.url }}">
+            <img src="{{ post.featimage }}" alt="{{ post.featimage-alt }}">
+          </a>
+        </div>
+      {% endif %}
+
       <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
 
-      <!-- <div class="tags">Tags: {{ post.tags | join: ", " }}</div> -->
-      
+      <!--
+      {% if post.tags != null %}
+        <div class="tags">Tags: {{ post.tags | join: ", " }}</div>
+      {% else %}
+        <div class="tags">Tags: None</div>
+      {% endif %}
+     -->
+
       <div class="entry">
         {{ post.excerpt }}
       </div>

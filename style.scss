@@ -18,7 +18,7 @@ html {
 }
 
 body {
-	background: $white;
+	background: $background;
   font: 18px/1.4 $helvetica;
   color: $black;
 }
@@ -31,7 +31,7 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: $helveticaNeue;
+  font-family: $georgia;
   color: $darkerGray;
   font-weight: bold;
 
@@ -41,6 +41,9 @@ h1, h2, h3, h4, h5, h6 {
 
   @include mobile {
     line-height: 1.4;
+  }
+  a {
+    font-family: inherit;
   }
 }
 
@@ -53,6 +56,10 @@ h1 {
 
 h2 {
   font-size: 24px;
+  a {
+//    color: inherit;
+    font-family: $georgia;
+  }
 }
 
 h3 {
@@ -156,12 +163,14 @@ img {
 
 .masthead {
   padding: 20px 0;
-  border-bottom: 1px solid $lightGray;
+  border-bottom: 5px solid $ribbonAccent;
 
   @include mobile {
     text-align: center;
   }
 }
+
+//.wrapper-masthead > .container
 
 .site-avatar {
   float: left;
@@ -225,7 +234,7 @@ nav {
 
   a {
     margin-left: 20px;
-    color: $darkGray;
+    color: $shadow;
     text-align: right;
     font-weight: 300;
     letter-spacing: 1px;
@@ -244,6 +253,10 @@ nav {
 .posts > .post {
   padding-bottom: 2em;
   border-bottom: 1px solid $lightGray;
+  background-color: $white;
+  padding: 2%;
+  margin-bottom: 5%;
+  box-shadow: 0px 5px 5px $shadow;
 }
 
 .posts > .post:last-child {
@@ -275,7 +288,35 @@ nav {
   margin-top: 50px;
   border-top: 1px solid #ddd;
   border-bottom: 1px solid #ddd;
-  background-color: $lightGray;
+  background-color: $ribbonAccent;
+}
+
+.blog-post {
+  background-color: $white;
+  padding: 2.5%;
+
+  blockquote {
+    margin: 1.8em .8em;
+    border-left: 2px solid $gray;
+    padding: 0.1em 1em;
+    color: $gray;
+    font-size: 22px;
+    font-style: italic;
+  }
+
+  .comments {
+    margin-top: 10px;
+  }
+
+  .read-more {
+    text-transform: uppercase;
+    font-size: 15px;
+  }
+}
+
+.page {
+  background-color: $white;
+  padding: 2.5%;
 }
 
 footer {

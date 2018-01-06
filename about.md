@@ -4,15 +4,14 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Coming Soon! 
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+![Bird Photo](https://github.com/kvogan/kvogan.github.io/blob/master/images/Calicalicus_rufocarpalis_-_Redshouldered_vanga.jpg?raw=true)
 
 
-[jekyll-organization]: https://github.com/jekyll
+### Contact me
+
+You can email me at meandmysixfriends[at]gmail[dot]com
+
+Or you can find me on [Instagram](https://www.instagram.com/meandmysixfriends/) or [on Twitter](https://twitter.com/meandmy6friends/)
+

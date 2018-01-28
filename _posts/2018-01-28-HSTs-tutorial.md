@@ -18,13 +18,13 @@ To begin, you will need one square of each of the two fabrics that will make up 
 
 Using a rotary cutter and a ruler, **bisect the squares from corner to corner to create two triangles**.  Take one triangle of each colour, match them right sides together. Pin if needed. Sew along the hypotenuse of the triangle (the longest side). Be careful not to pull on the edges when sewing as you are sewing along the bias edge and the bias edge is stretchy. However, once you are finished sewing this seam, all bias edges will be enclosed in the block!
 
- ![Cutting instructions for half square triangles](/images/08-01-2018-HST-tutorial.png/)
+ ![Cutting instructions for half square triangles]({{ site.baseurl }}/images/08-01-2018-HST-tutorial.png/)
 
 Open the unit and press. Trim if necessary. You have made one HST unit!
 
 There are many different block layouts you can make with HSTs! Here are some:
 
-![Sample Layouts for half square triangles](/images/08-01-2018-HST-layouts.png/)
+![Sample Layouts for half square triangles]({{ site.baseurl }}/images/08-01-2018-HST-layouts.png/)
 
 Have fun with your HSTs!
 

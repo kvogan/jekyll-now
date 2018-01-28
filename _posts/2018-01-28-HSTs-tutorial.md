@@ -2,11 +2,12 @@
 layout: post
 title: Tutorial - Traditionally Pieced Half Square Triangles
 #tags:
-#- Love
-#- Kisses
-featimage: /images/08-01-2018-HST-tutorial-header.png
+#- Tutorial
+#- HSTs
+#- Quilting
+featimage: /images/28-01-2018_HSTs.png  
 featimage-alt: Piece Half Square Triangles the Traditional Way!
-excerpt: The Half-Square-Triangle (HST) is a marvellously versatile block. It’s a key element in many traditional pattern designs.  In this post, I offer up a tutorial on traditional piecing HSTs. <b>Included is a printable reference table for HSTs ranging from ¾ inch square to 20 inch square so that you’ll never have to do the quilt math again</b>.
+excerpt: The Half-Square-Triangle (HST) is a marvelously versatile block. It’s a key element in many traditional pattern designs.  In this post, I offer up a tutorial on traditional piecing HSTs. <b>Included is a printable reference table for HSTs ranging from ¾ inch square to 20 inch square so that you’ll never have to do the quilt math again</b>.
 ---
 
 There are quite a few tutorials online with different ways to make HSTs. Modern quilters have found techniques and methods to piece multiple HSTs at once. These are great methods if you want to save time, but **if you only need a few HSTs**, the traditional method is the way to go. Personally, I find that traditional piecing is also the most **precise way to piece**. (I actually sew most of my HSTs the traditional way, regardless of how many I need to sew. I find chain piecing them together to be quite soothing.) Plus, if you piece traditionally, you **have greater control over where your bias edges end up** on your finished unit.
@@ -19,7 +20,7 @@ Using a rotary cutter and a ruler, **bisect the squares from corner to corner to
 
  ![Cutting instructions for half square triangles](/images/08-01-2018-HST-tutorial.png/)
 
- Open the unit and press. Trim if necessary. You have made one HST unit!
+Open the unit and press. Trim if necessary. You have made one HST unit!
 
 There are many different block layouts you can make with HSTs! Here are some:
 
